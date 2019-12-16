@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9171f53-111c-4c2e-b2cc-edb87856e6ae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0LWI8MCnoR5bz8X3fUNGjLJNg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Gym">
+    <configuration name="Gym Frozenlake 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GymPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gym Frozenlake 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gym" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GymPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gym.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gym_Mountaincar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GymPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gym_Mountaincar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Keras_Mountaincar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GymPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Keras_Mountaincar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Modeltestfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GymPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modeltestfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Modeltestfile" />
+        <item itemvalue="Python.Keras_Mountaincar" />
+        <item itemvalue="Python.Gym_Mountaincar" />
+        <item itemvalue="Python.Gym" />
+        <item itemvalue="Python.Gym Frozenlake 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9171f53-111c-4c2e-b2cc-edb87856e6ae" name="Default Changelist" comment="" />
+      <created>1570695596063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570695596063</updated>
+      <workItem from="1570695597156" duration="6226000" />
+      <workItem from="1572346903282" duration="733000" />
+      <workItem from="1576496777743" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1572346930121" />
+    <state x="706" y="327" key="#com.intellij.fileTypes.FileTypeChooser/1920.1080" timestamp="1572346930121" />
+    <state x="739" y="280" key="FileChooserDialogImpl" timestamp="1572346930121" />
+    <state x="739" y="280" key="FileChooserDialogImpl/1920.1080" timestamp="1572346930121" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1572352233794">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1572352233794" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/1920.1080" timestamp="1572346930121" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1572352233793">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1572352233793" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center/1920.1080" timestamp="1572346930121" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1572352233793">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1572352233793" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left/1920.1080" timestamp="1572346930121" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1572352233793">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1572352233793" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/1920.1080" timestamp="1572346930121" />
+    <state x="657" y="195" width="606" height="660" key="find.popup" timestamp="1572346930121" />
+    <state x="657" y="195" width="606" height="660" key="find.popup/1920.1080" timestamp="1572346930121" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1572346930121" />
+    <state x="623" y="227" key="search.everywhere.popup/1920.1080" timestamp="1572346930121" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GymPycharm$Keras_Mountaincar.coverage" NAME="Keras_Mountaincar Coverage Results" MODIFIED="1572347447784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymPycharm$Modeltestfile.coverage" NAME="Modeltestfile Coverage Results" MODIFIED="1572352233756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymPycharm$Gym_Frozenlake_2.coverage" NAME="Gym Frozenlake 2 Coverage Results" MODIFIED="1570696796887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymPycharm$Gym_Mountaincar.coverage" NAME="Gym_Mountaincar Coverage Results" MODIFIED="1572347359244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GymPycharm$Gym.coverage" NAME="Gym Coverage Results" MODIFIED="1572347105962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
